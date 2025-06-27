@@ -1,9 +1,10 @@
 
 -- alx_book_store.sql
--- Author: Your Name
+-- Author: Yeap that's me
 -- Description: SQL schema for an online bookstore
 -- Date: 2025-06-27
 
+CREATE DATABASE IF NOT EXISTS alx_book_store
 use alx_book_store;
 
 CREATE table Authors(
